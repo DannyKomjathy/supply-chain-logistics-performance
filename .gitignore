@@ -1,0 +1,5 @@
+# Raw data — do NOT commit. It is 81 MB and contains customer PII.
+data/DataCoSupplyChain.csv
+data/*.zip
+__pycache__/
+*.pyc
