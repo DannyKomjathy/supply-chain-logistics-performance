@@ -1,0 +1,2 @@
+orders_total,orders_fulfilled,on_time_rate,late_rate,late_orders,avg_delivery_gap_days,avg_actual_days,avg_scheduled_days,total_sales_fulfilled
+180519,79107,0.4272567535110673,0.5727432464889327,45308,0.5586989773344964,3.4836740111494557,2.9249750338149596,16117939.16656
